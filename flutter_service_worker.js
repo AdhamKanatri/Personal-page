@@ -3,14 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "cb81ba604284551b1ad68e9c3cbff91b",
+  "assets/AssetManifest.json": "8277b30fa9367d83969f25bfd750797f",
 "assets/assets/images/Adham%2520sign.png": "3f6d18b029d11daeabb814f7e7d497c9",
 "assets/assets/images/background.jpg": "25e16807ebb0210fe53d7c588faa1b13",
 "assets/assets/images/background.png": "0614a717659df3fd409c60ff04fac983",
 "assets/assets/images/bg_img_2.png": "8257ef89b2dfeab767578260965a7e2d",
 "assets/assets/images/contact_icon.png": "856b95eb03d60fa2576140e4c3d034b9",
 "assets/assets/images/desktop.png": "d4794e3ddcb4fce9a2c12246e3b4d8a7",
+"assets/assets/images/Dr.Mohammd.png": "51f4308456ceb66fdf6d07a0c2d7b146",
 "assets/assets/images/email.png": "f59e8ec158ec05d21c8b251d7b0017ca",
+"assets/assets/images/Finishing.png": "33003f8d89881ce6a643022b06156ba4",
 "assets/assets/images/github-logo.png": "c78e59f011834aee927662f45d6ba6e2",
 "assets/assets/images/graphic.png": "d7aaa5a5615483382572b5d5c24c5e5b",
 "assets/assets/images/hand.png": "d7c6f40ec1244a86fb4610cd515fee55",
@@ -19,15 +21,16 @@ const RESOURCES = {
 "assets/assets/images/Intreaction_design.png": "98e873648b7c2d3062556f2f8c09d4c3",
 "assets/assets/images/Logo.png": "62b5ba0c38793a92240706691d337034",
 "assets/assets/images/messanger.png": "beacdbb3a93df25674af2f5302f5633a",
+"assets/assets/images/Mobile%2520Application.png": "ae43e15fb3764f59592197cba69a7229",
+"assets/assets/images/Ohod.png": "d4cb848f7ae94057e94dad4e13a069b9",
 "assets/assets/images/pdf-download.png": "38c1b088b47693e17d63a1564d9f08cf",
 "assets/assets/images/pdf-file.png": "d7aab77782f9c06396a4f9fa47da730c",
 "assets/assets/images/people.png": "f6561cf54d239a098a72225cd21bdc80",
 "assets/assets/images/person.png": "6ede1e25d66c72b4e0ca2e5459cfd8b1",
 "assets/assets/images/recent_work_bg.png": "531a8461fd1ec42f03f4cfb891790635",
-"assets/assets/images/sign.png": "09ce9472b81f95dc3193a4ce58872bfb",
 "assets/assets/images/skype.png": "955d4329bf55cd47008c2edd6c08ad99",
 "assets/assets/images/Storage%2520Not%2520Enough.png": "51a973271af794937d52cf7c34037215",
-"assets/assets/images/TopBanner.png": "54a9c06c60c907e5e81382bed0ab42dd",
+"assets/assets/images/TopBanner.png": "9280ff98e37b05dd36a41e03abc94e3d",
 "assets/assets/images/ui.png": "6ca82a6c70f80fd75c56b1fe66caa180",
 "assets/assets/images/whatsapp.png": "e33ef8b852729cd9dd7c6af3837f9b23",
 "assets/assets/images/work_1.png": "ff8242cdad37e4c83136a90a325810a8",
@@ -36,19 +39,20 @@ const RESOURCES = {
 "assets/assets/images/work_4.png": "74e5fc2d50c04cdd638cfa878bd2ef66",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "e1ad5a2063e0d1e881d820b4af43268c",
+"assets/NOTICES": "f181538fd0e1b6bf4556f226b10fe235",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"favicon.png": "dcaa6dab8954a50790cf4f185d64fdca",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
-"icons/Icon-192.png": "0e4eaf2a46d407ab8f22b50317ba35b0",
-"icons/Icon-512.png": "ee9984571bd42b48bb49dba5954a32e1",
-"index.html": "6ca8b0e7f45180e9dc29f3a50967f452",
-"/": "6ca8b0e7f45180e9dc29f3a50967f452",
-"main.dart.js": "0298a6300151d92d511e84ea26422647",
+"assets/shaders/ink_sparkle.frag": "5dcc6206b32d2298a422964fe0eae629",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"favicon.png": "68ddffa4bb37346805b40217208ad86c",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
+"icons/Icon-192.png": "b0de837f05e6a6ad84bb1fd465b1112c",
+"icons/Icon-512.png": "ed8b8ce6b8f0f80071e8a4e4f2a9878a",
+"index.html": "55cc4e7961abc26db3285bf03150d732",
+"/": "55cc4e7961abc26db3285bf03150d732",
+"main.dart.js": "5d18fa2d2dc08965ade23ebe665eb2f9",
 "manifest.json": "a2462746134dc728ce07b923123448ed",
 "version.json": "c2a08cda2a1e690bfed5ce9fc4d9e5b1"
 };
@@ -58,7 +62,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -157,9 +160,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })
