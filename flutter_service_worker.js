@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "0cb41007bf01ed6fa83489d8549cd622",
+  "assets/AssetManifest.json": "0ce444ed2b9bfeebc362daeae4ebde80",
 "assets/assets/images/Adham%2520sign.png": "3f6d18b029d11daeabb814f7e7d497c9",
 "assets/assets/images/bg_img_2.png": "8257ef89b2dfeab767578260965a7e2d",
+"assets/assets/images/chint.png": "17b348fbb8df0c9f48664aabc5afc088",
 "assets/assets/images/contact_icon.png": "856b95eb03d60fa2576140e4c3d034b9",
 "assets/assets/images/desktop.png": "d4794e3ddcb4fce9a2c12246e3b4d8a7",
 "assets/assets/images/Dr.Mohammd.png": "51f4308456ceb66fdf6d07a0c2d7b146",
@@ -17,12 +18,16 @@ const RESOURCES = {
 "assets/assets/images/Hover.png": "f0a2318c40269d84384f56f54d25ad69",
 "assets/assets/images/Hover_flip.png": "57d317fc22080b316188ebe73407065b",
 "assets/assets/images/Intreaction_design.png": "98e873648b7c2d3062556f2f8c09d4c3",
+"assets/assets/images/ledvance.png": "298221f27f1eb4dd66159243776493af",
+"assets/assets/images/LinkedIn.png": "00938188dafc83f118ab23c389ce67e6",
 "assets/assets/images/messanger.png": "beacdbb3a93df25674af2f5302f5633a",
 "assets/assets/images/Mobile%2520Application.png": "ae43e15fb3764f59592197cba69a7229",
 "assets/assets/images/Ohod.png": "d4cb848f7ae94057e94dad4e13a069b9",
 "assets/assets/images/pdf-download.png": "38c1b088b47693e17d63a1564d9f08cf",
 "assets/assets/images/pdf-file.png": "d7aab77782f9c06396a4f9fa47da730c",
+"assets/assets/images/philips.png": "b546c562c0d62910ecb20425bb06dc52",
 "assets/assets/images/recent_work_bg.png": "531a8461fd1ec42f03f4cfb891790635",
+"assets/assets/images/schneider.png": "32b1ffdf04f53f05798288b8ce331107",
 "assets/assets/images/skype.png": "955d4329bf55cd47008c2edd6c08ad99",
 "assets/assets/images/Storage%2520Not%2520Enough.png": "51a973271af794937d52cf7c34037215",
 "assets/assets/images/TopBanner.png": "9280ff98e37b05dd36a41e03abc94e3d",
@@ -41,9 +46,9 @@ const RESOURCES = {
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/Icon-192.png": "b0de837f05e6a6ad84bb1fd465b1112c",
 "icons/Icon-512.png": "ed8b8ce6b8f0f80071e8a4e4f2a9878a",
-"index.html": "4eff4337841842a7091842cecbbd2686",
-"/": "4eff4337841842a7091842cecbbd2686",
-"main.dart.js": "f3b8e857ec3d6c48bf5333f9ebb54081",
+"index.html": "41507e941b03edc5b2c6e801e8b866d3",
+"/": "41507e941b03edc5b2c6e801e8b866d3",
+"main.dart.js": "de2372367c079af477f85044abe4f7d2",
 "manifest.json": "a2462746134dc728ce07b923123448ed",
 "version.json": "c2a08cda2a1e690bfed5ce9fc4d9e5b1"
 };
