@@ -69972,7 +69972,7 @@ q($,"ay2","al6",()=>{var p=$.al7()
 return new A.ul(p,p,p)})
 q($,"ay3","al7",()=>A.aov(B.ld,A.alY(A.of(4291749117),B.ah,B.aQ,1),4))
 q($,"ay_","rp",()=>A.b([new A.D5("Dr.Mohammad Koij","Thank you for giving your feedback and always letting me know about the special additions.","assets/images/Dr.Mohammd.png","Executive Director of OHOD Electric",A.of(4292476924))],A.a_("q<D5*>")))
-q($,"ayc","Am",()=>A.b([A.agb("Ohod Mobile Application",1,"assets/images/Ohod.png","View company website","private application for dealing with purchase and sale requests, and presenting offers to customers.","http://www.ohod.com.sa"),A.agb("Finishing Mobile Application",2,"assets/images/Finishing.png","View Details","Build an integrated storage application for finishing tools.","https://github.com/AdhamKanatri/FMS")],A.a_("q<Fz*>")))
+q($,"ayc","Am",()=>A.b([A.agb("Ohod Mobile Application",1,"assets/images/Ohod.png","View company website","private application for dealing with purchase and sale requests, and presenting offers to customers.","https://adhamkanatri.github.io/OHOD"),A.agb("Finishing Mobile Application",2,"assets/images/Finishing.png","View Details","Build an integrated storage application for finishing tools.","https://github.com/AdhamKanatri/FMS")],A.a_("q<Fz*>")))
 q($,"aye","abj",()=>A.b([A.a0A(A.of(4292476924),1,"assets/images/graphic.png","Software Engineering"),A.a0A(A.of(4293197767),2,"assets/images/Mobile Application.png","Mobile Application"),A.a0A(A.of(4294964189),3,"assets/images/desktop.png","Website"),A.a0A(A.of(4294959328),4,"assets/images/Intreaction_design.png","Interaction Design")],A.a_("q<GI*>")))})();(function nativeSupport(){!function(){var s=function(a){var m={}
 m[a]=1
 return Object.keys(hunkHelpers.convertToFastObject(m))[0]}
